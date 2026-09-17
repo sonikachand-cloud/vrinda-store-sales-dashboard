@@ -2,6 +2,8 @@
 
 An interactive Excel dashboard analyzing 31,000+ orders for Vrinda Store, built to track sales performance and surface actionable business insights across channels, demographics, and geography.
 
+ ![Dashboard](dashboard-preview.png)
+ 
 ## Overview
 
 This project takes raw order-level data and turns it into a KPI-driven dashboard that lets stakeholders filter and explore performance by month, sales channel, and product category — without touching a single formula.
